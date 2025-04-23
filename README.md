@@ -26,9 +26,9 @@ Este projeto tem como objetivo controlar remotamente um motor elétrico trifási
 
 ## 🧪 Testado com
 
-- ESP32 DevKit V1
+- ESP32 DevModule
 - Inversor Schneider ATV312
-- Motor trifásico WEG W CV
+- Motor trifásico WEG W22
 - Módulo RS485 TTL
 
 ## 📲 Controle Mobile
