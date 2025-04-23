@@ -59,7 +59,9 @@ O website permite:
 
 ## 📄 Licença
 
-MIT License. Sinta-se livre para usar e modificar este projeto com os devidos créditos.
+**Todos os direitos reservados.**  
+Este projeto é de uso pessoal e educacional. A reprodução, distribuição ou modificação não autorizada não é permitida sem o consentimento do autor.
+
 
 ---
 
