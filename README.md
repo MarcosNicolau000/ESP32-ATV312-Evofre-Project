@@ -62,7 +62,3 @@ O website permite:
 **Todos os direitos reservados.**  
 Este projeto é de uso pessoal e educacional. A reprodução, distribuição ou modificação não autorizada não é permitida sem o consentimento do autor.
 
-
----
-
-Desenvolvido por [Marcos Nicolau](https://www.linkedin.com/in/seulinkedin)
